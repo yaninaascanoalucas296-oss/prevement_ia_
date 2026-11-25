@@ -1,0 +1,65 @@
+tramo_id,fecha,antiguedad,transito,tipo_falla,severidad,pci_observado,origen_dato
+JR-28-DE-JULIO-T1,2022-01-10,11.0,1491,Grietas longitudinales,Media,27.4,simulado_educativo_huanuco_ref
+JR-28-DE-JULIO-T1,2022-02-06,8.0,4325,Grietas de esquina,Alta,30.0,simulado_educativo_huanuco_ref
+JR-28-DE-JULIO-T1,2022-03-06,9.0,1481,Escalonamiento,Baja,42.0,simulado_educativo_huanuco_ref
+JR-28-DE-JULIO-T1,2022-04-03,8.0,4840,Escalonamiento,Media,35.8,simulado_educativo_huanuco_ref
+JR-28-DE-JULIO-T2,2022-05-01,2.0,3542,Losa dividida,Media,78.6,simulado_educativo_huanuco_ref
+JR-28-DE-JULIO-T2,2022-05-28,10.0,1359,Grietas transversales,Baja,32.0,simulado_educativo_huanuco_ref
+JR-28-DE-JULIO-T2,2022-06-25,2.0,3028,Grietas transversales,Baja,83.8,simulado_educativo_huanuco_ref
+JR-28-DE-JULIO-T2,2022-07-23,8.0,6443,Grietas de esquina,Baja,41.5,simulado_educativo_huanuco_ref
+AV-ALAMEDA-PERU-T1,2022-08-20,4.0,3055,Losa dividida,Baja,73.2,simulado_educativo_huanuco_ref
+AV-ALAMEDA-PERU-T1,2022-09-16,4.0,1660,Grietas de esquina,Alta,58.6,simulado_educativo_huanuco_ref
+AV-ALAMEDA-PERU-T1,2022-10-14,8.0,3039,Grietas de esquina,Baja,45.0,simulado_educativo_huanuco_ref
+AV-ALAMEDA-PERU-T1,2022-11-11,11.0,2912,Grietas transversales,Baja,22.3,simulado_educativo_huanuco_ref
+AV-ALAMEDA-PERU-T2,2022-12-09,6.0,1790,Losa dividida,Media,56.7,simulado_educativo_huanuco_ref
+AV-ALAMEDA-PERU-T2,2023-01-05,6.0,1345,Despostillamiento,Media,63.4,simulado_educativo_huanuco_ref
+AV-ALAMEDA-PERU-T2,2023-02-02,1.0,2670,Grietas de esquina,Media,87.4,simulado_educativo_huanuco_ref
+AV-ALAMEDA-PERU-T2,2023-03-02,6.0,607,Despostillamiento,Media,55.1,simulado_educativo_huanuco_ref
+JR-HUALLAYCO-T1,2023-03-30,10.0,410,Grietas longitudinales,Media,35.4,simulado_educativo_huanuco_ref
+JR-HUALLAYCO-T1,2023-04-26,10.0,4834,Grietas de esquina,Baja,25.5,simulado_educativo_huanuco_ref
+JR-HUALLAYCO-T1,2023-05-24,6.0,6437,Grietas de esquina,Baja,45.4,simulado_educativo_huanuco_ref
+JR-HUALLAYCO-T1,2023-06-21,1.0,4895,Grietas transversales,Media,78.9,simulado_educativo_huanuco_ref
+JR-HUALLAYCO-T2,2023-07-19,3.0,5122,Losa dividida,Alta,56.0,simulado_educativo_huanuco_ref
+JR-HUALLAYCO-T2,2023-08-16,12.0,2219,Grietas longitudinales,Alta,7.3,simulado_educativo_huanuco_ref
+JR-HUALLAYCO-T2,2023-09-12,1.0,2216,Escalonamiento,Media,83.5,simulado_educativo_huanuco_ref
+JR-HUALLAYCO-T2,2023-10-10,4.0,925,Grietas longitudinales,Baja,77.6,simulado_educativo_huanuco_ref
+AV-MARANON-T1,2023-11-07,12.0,3398,Losa dividida,Media,13.3,simulado_educativo_huanuco_ref
+AV-MARANON-T1,2023-12-05,8.0,2250,Escalonamiento,Baja,40.8,simulado_educativo_huanuco_ref
+AV-MARANON-T1,2024-01-01,3.0,5205,Losa dividida,Media,69.6,simulado_educativo_huanuco_ref
+AV-MARANON-T1,2024-01-29,8.0,5201,Escalonamiento,Baja,33.7,simulado_educativo_huanuco_ref
+AV-MARANON-T2,2024-02-26,9.0,5366,Grietas de esquina,Media,27.5,simulado_educativo_huanuco_ref
+AV-MARANON-T2,2024-03-25,2.0,1285,Despostillamiento,Baja,81.5,simulado_educativo_huanuco_ref
+AV-MARANON-T2,2024-04-21,8.0,5628,Grietas de esquina,Baja,37.5,simulado_educativo_huanuco_ref
+AV-MARANON-T2,2024-05-19,8.0,4063,Grietas de esquina,Media,37.4,simulado_educativo_huanuco_ref
+JR-GENERAL-PRADO-T1,2024-06-16,6.0,2107,Grietas de esquina,Baja,55.2,simulado_educativo_huanuco_ref
+JR-GENERAL-PRADO-T1,2024-07-14,1.0,2970,Grietas transversales,Media,82.3,simulado_educativo_huanuco_ref
+JR-GENERAL-PRADO-T1,2024-08-10,12.0,5775,Despostillamiento,Baja,15.3,simulado_educativo_huanuco_ref
+JR-GENERAL-PRADO-T1,2024-09-07,5.0,872,Grietas longitudinales,Media,66.0,simulado_educativo_huanuco_ref
+JR-GENERAL-PRADO-T2,2024-10-05,4.0,3285,Grietas de esquina,Alta,60.8,simulado_educativo_huanuco_ref
+JR-GENERAL-PRADO-T2,2024-11-02,7.0,3637,Despostillamiento,Alta,43.8,simulado_educativo_huanuco_ref
+JR-GENERAL-PRADO-T2,2024-11-29,6.0,4366,Despostillamiento,Alta,40.2,simulado_educativo_huanuco_ref
+JR-GENERAL-PRADO-T2,2024-12-27,9.0,4642,Despostillamiento,Media,28.6,simulado_educativo_huanuco_ref
+AV-COLONIAL-T1,2025-01-24,2.0,1020,Grietas longitudinales,Alta,72.2,simulado_educativo_huanuco_ref
+AV-COLONIAL-T1,2025-02-21,5.0,670,Grietas longitudinales,Baja,62.3,simulado_educativo_huanuco_ref
+AV-COLONIAL-T1,2025-03-21,10.0,2029,Grietas longitudinales,Baja,37.3,simulado_educativo_huanuco_ref
+AV-COLONIAL-T1,2025-04-17,11.0,2103,Grietas transversales,Media,21.7,simulado_educativo_huanuco_ref
+AV-COLONIAL-T2,2025-05-15,3.0,5217,Grietas transversales,Baja,71.1,simulado_educativo_huanuco_ref
+AV-COLONIAL-T2,2025-06-12,6.0,5681,Losa dividida,Media,42.8,simulado_educativo_huanuco_ref
+AV-COLONIAL-T2,2025-07-10,6.0,5166,Grietas transversales,Baja,54.7,simulado_educativo_huanuco_ref
+AV-COLONIAL-T2,2025-08-06,5.0,3909,Grietas longitudinales,Baja,64.0,simulado_educativo_huanuco_ref
+JR-DOS-DE-MAYO-T1,2025-09-03,5.0,1667,Grietas transversales,Media,63.5,simulado_educativo_huanuco_ref
+JR-DOS-DE-MAYO-T1,2025-10-01,5.0,598,Escalonamiento,Baja,71.4,simulado_educativo_huanuco_ref
+JR-DOS-DE-MAYO-T1,2025-10-29,4.0,1423,Grietas transversales,Baja,76.0,simulado_educativo_huanuco_ref
+JR-DOS-DE-MAYO-T1,2025-11-25,10.0,1499,Despostillamiento,Alta,27.9,simulado_educativo_huanuco_ref
+JR-DOS-DE-MAYO-T2,2025-12-23,9.0,2080,Despostillamiento,Media,38.3,simulado_educativo_huanuco_ref
+JR-DOS-DE-MAYO-T2,2026-01-20,8.0,1800,Losa dividida,Baja,43.2,simulado_educativo_huanuco_ref
+JR-DOS-DE-MAYO-T2,2026-02-17,12.0,3751,Grietas longitudinales,Media,11.8,simulado_educativo_huanuco_ref
+JR-DOS-DE-MAYO-T2,2026-03-16,6.0,554,Grietas de esquina,Alta,51.3,simulado_educativo_huanuco_ref
+AV-AYACUCHO-T1,2026-04-13,11.0,2161,Escalonamiento,Media,22.1,simulado_educativo_huanuco_ref
+AV-AYACUCHO-T1,2026-05-11,5.0,536,Grietas transversales,Media,63.9,simulado_educativo_huanuco_ref
+AV-AYACUCHO-T1,2026-06-08,8.0,5098,Losa dividida,Baja,40.8,simulado_educativo_huanuco_ref
+AV-AYACUCHO-T1,2026-07-05,1.0,1637,Escalonamiento,Baja,88.9,simulado_educativo_huanuco_ref
+AV-AYACUCHO-T2,2026-08-02,3.0,2002,Despostillamiento,Baja,78.0,simulado_educativo_huanuco_ref
+AV-AYACUCHO-T2,2026-08-30,5.0,2608,Grietas transversales,Alta,56.3,simulado_educativo_huanuco_ref
+AV-AYACUCHO-T2,2026-09-27,10.0,1482,Grietas longitudinales,Media,29.7,simulado_educativo_huanuco_ref
+AV-AYACUCHO-T2,2026-10-25,6.0,6037,Losa dividida,Media,49.5,simulado_educativo_huanuco_ref
